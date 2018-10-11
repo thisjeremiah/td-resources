@@ -1,2 +1,1 @@
-# td-resources
-TouchDesigner Resources
+# TouchDesigner Resources
